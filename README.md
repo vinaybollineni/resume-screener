@@ -103,3 +103,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [LangChain](https://www.langchain.com/) for the LLM framework
 - [Ollama](https://ollama.ai/) for local LLM inference
 - [FAISS](https://github.com/facebookresearch/faiss) for efficient similarity search
+
